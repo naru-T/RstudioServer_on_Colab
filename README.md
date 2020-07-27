@@ -4,7 +4,7 @@ This repository builds a Rstudio-server on Google colaboratory.
 # prerequisite
 [ngrok](https://ngrok.com/)  token is required.
 
-# How to launch vscode-server on Google Colab?
+# How to launch Rstudio-server on Google Colab?
 1. Open Rstudio_server.ipynb on Colab
 2. Run all codes one by one. You need the ngrok API token. Some other actions such as google account authorization are required.
 3. Launch the ngrok produced weblink. vscode-server will be launched.
