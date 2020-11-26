@@ -10,7 +10,9 @@ This repository builds a Rstudio-server on Google colaboratory.
 3. Launch the ngrok produced weblink. vscode-server will be launched.
 
 # Note
-At this moment, as the rstudio server does not accept the root user, it is difficult to access google drive data.
+At this moment, the rstudio server does not accept the root user.  
+To access google drive, the "googledrive" package should be installed.  
+
 
 # References
 - https://towardsdatascience.com/colab-free-gpu-ssh-visual-studio-code-server-36fe1d3c5243
