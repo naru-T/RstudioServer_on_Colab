@@ -1,4 +1,4 @@
-# RstudioServer_on_Colab
+# RstudioServer on Google Colaboratory
 This repository builds a Rstudio-server on Google colaboratory.
 
 # How to launch Rstudio-server on Google Colab?
