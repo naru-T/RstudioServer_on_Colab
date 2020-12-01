@@ -1,14 +1,11 @@
 # RstudioServer_on_Colab
 This repository builds a Rstudio-server on Google colaboratory.
 
-# prerequisite
-[ngrok](https://ngrok.com/)  token is required.
-
 # How to launch Rstudio-server on Google Colab?
 1. Open Rstudio_server.ipynb on Colab
-2. Run all codes one by one. You need the ngrok API token. 
-3. The "rstudio" is created. The password should be defined by user.
-4. Launch the ngrok produced weblink. Rstudio-server will be launched.
+2. Run all codes one by one. 
+3. The "rstudio" user is created. The password should be defined by user.
+4. Launch the localtunnel produced weblink. Rstudio-server will be launched.
 
 # Note
 The rstudio server does not accept the root user.  
